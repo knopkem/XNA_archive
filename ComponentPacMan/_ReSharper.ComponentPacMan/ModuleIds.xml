@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="38A361DE-36C3-471E-B854-BDE8D719C039" ModuleId="ComponentPacMan" />
+  <Module PersistentId="E358E87B-83A3-4D02-BD94-7C32625DA468" ModuleId="ComponentPacManTest" />
+</Modules>

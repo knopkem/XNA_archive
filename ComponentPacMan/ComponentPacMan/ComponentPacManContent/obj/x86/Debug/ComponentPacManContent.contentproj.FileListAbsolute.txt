@@ -1,0 +1,1 @@
+C:\xna\ComponentGame\ComponentPacMan\ComponentPacMan\ComponentPacManContent\obj\x86\Debug\ResolveAssemblyReference.cache

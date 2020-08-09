@@ -1,0 +1,417 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:BaseSystem.cs" caret="517" fromTop="15" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:CollisionWarningSystem.cs" caret="1292" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:IDrawable.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:IUpdateable.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:SystemManager.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:Program.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Entities/f:IRenderable.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Entities/f:Entity.cs" caret="208" fromTop="7" />
+      <File id="E358E87B-83A3-4D02-BD94-7C32625DA468/f:PacManTest.cs" caret="817" fromTop="25" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:IPathProvider.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:IPathFinder.cs" caret="911" fromTop="16" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:PathFinderNodeCollection.cs" caret="608" fromTop="16" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:PathFinderFast.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:PathFinder.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:Algorithms.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:SkipListCollection.cs" caret="1196" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:Tile.cs" caret="573" fromTop="21" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:IGrid.cs" caret="199" fromTop="12" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:IComponent.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:GridComponent.cs" caret="585" fromTop="20" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:PathProvider.cs" caret="587" fromTop="18" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:PathFindingSystem.cs" caret="849" fromTop="5" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="4478" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:GridType.cs" caret="156" fromTop="6" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:StaticGrid.cs" caret="879" fromTop="25" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Entities/f:EntityFactory.cs" caret="3263" fromTop="22" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="2510" fromTop="19" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:CellularAutomata.cs" caret="20065" fromTop="479" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:RenderSystem.cs" caret="0" fromTop="0" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:CollisionComponent.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="6594" fromTop="20" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="6230" fromTop="15" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:GridComponent.cs" caret="1183" fromTop="33" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:GridComponent.cs" caret="418" fromTop="3" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Components/f:GridComponent.cs" caret="585" fromTop="9" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="914" fromTop="22" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="1280" fromTop="6" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="992" fromTop="10" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="3659" fromTop="21" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="3659" fromTop="23" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="790" fromTop="22" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="1884" fromTop="13" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:PathFindingSystem.cs" caret="424" fromTop="13" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:PathFindingSystem.cs" caret="717" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:PathFindingSystem.cs" caret="624" fromTop="12" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Systems/f:PathFindingSystem.cs" caret="849" fromTop="5" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="1280" fromTop="25" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="1635" fromTop="31" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="2269" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="3659" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="2738" fromTop="17" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/f:PacMan.cs" caret="3087" fromTop="22" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="2753" fromTop="33" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="2722" fromTop="33" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:CellularAutomata.cs" caret="8136" fromTop="11" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="1183" fromTop="38" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Entities/f:EntityFactory.cs" caret="3543" fromTop="27" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Entities/f:EntityFactory.cs" caret="3263" fromTop="22" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="418" fromTop="14" />
+      <File id="38A361DE-36C3-471E-B854-BDE8D719C039/d:Core/f:RandomGrid.cs" caret="2510" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="5" />
+      <Item value="void" priority="9" />
+      <Item value="Vector2`0" priority="18" />
+      <Item value="IComponent`0" priority="10" />
+      <Item value="IMovable`0" priority="2" />
+      <Item value="public" priority="25" />
+      <Item value="ITransform`0" priority="5" />
+      <Item value="return" priority="16" />
+      <Item value="CMovable`0" priority="0" />
+      <Item value="trans" priority="0" />
+      <Item value="_transform" priority="0" />
+      <Item value="newPos" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="Ghost`0" priority="0" />
+      <Item value="IRenderable`0" priority="3" />
+      <Item value="renderable" priority="1" />
+      <Item value="private" priority="21" />
+      <Item value="_renderable" priority="0" />
+      <Item value="_movable" priority="0" />
+      <Item value="movable" priority="0" />
+      <Item value="Entity`0" priority="2" />
+      <Item value="gameTime" priority="4" />
+      <Item value="spriteBatch" priority="4" />
+      <Item value="component" priority="6" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="enum" priority="1" />
+      <Item value="ComponentTypes`0" priority="2" />
+      <Item value="_components" priority="2" />
+      <Item value="type" priority="1" />
+      <Item value="new" priority="45" />
+      <Item value="Dictionary&lt;ComponentTypes,IComponent&gt;" priority="0" />
+      <Item value="List" priority="6" />
+      <Item value="ComponentType`0" priority="5" />
+      <Item value="static" priority="5" />
+      <Item value="EntityFactory`0" priority="2" />
+      <Item value="EntityType`0" priority="7" />
+      <Item value="readonly" priority="4" />
+      <Item value="_entityType" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="3" />
+      <Item value="break" priority="3" />
+      <Item value="Entity" priority="1" />
+      <Item value="null" priority="2" />
+      <Item value="newEntity" priority="9" />
+      <Item value="GameTime`0" priority="0" />
+      <Item value="ISystem`0" priority="4" />
+      <Item value="IDrawable`0" priority="4" />
+      <Item value="System" priority="2" />
+      <Item value="system" priority="4" />
+      <Item value="_systems" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="if" priority="16" />
+      <Item value="IUpdateable`0" priority="2" />
+      <Item value="as" priority="7" />
+      <Item value="is" priority="0" />
+      <Item value="List&lt;ISystem&gt;" priority="0" />
+      <Item value="SpriteBatch" priority="0" />
+      <Item value="graphics" priority="0" />
+      <Item value="EnemyMovementSystem`0" priority="0" />
+      <Item value="_movementSystem" priority="2" />
+      <Item value="EnemyMovementSystem" priority="0" />
+      <Item value="SystemManager`0" priority="1" />
+      <Item value="Game`0" priority="1" />
+      <Item value="SpriteBatch`0" priority="0" />
+      <Item value="_spriteBatch" priority="2" />
+      <Item value="PositionalComponent`0" priority="3" />
+      <Item value="Position" priority="1" />
+      <Item value="initialPosition" priority="0" />
+      <Item value="BaseSystem`0" priority="2" />
+      <Item value="entity" priority="9" />
+      <Item value="IEntity`0" priority="1" />
+      <Item value="List&lt;IEntity&gt;" priority="2" />
+      <Item value="_entities" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="pos" priority="10" />
+      <Item value="Random`0" priority="2" />
+      <Item value="Vector2" priority="11" />
+      <Item value="_random" priority="0" />
+      <Item value="Random" priority="3" />
+      <Item value="SpriteComponent`0" priority="3" />
+      <Item value="Ghost" priority="0" />
+      <Item value="entityInstance" priority="3" />
+      <Item value="Texture2D`0" priority="0" />
+      <Item value="SpriteTexture" priority="1" />
+      <Item value="texture" priority="0" />
+      <Item value="SpriteSize" priority="0" />
+      <Item value="size" priority="3" />
+      <Item value="var" priority="12" />
+      <Item value="content" priority="3" />
+      <Item value="sprite" priority="4" />
+      <Item value="player" priority="0" />
+      <Item value="Rectangle" priority="1" />
+      <Item value="Color`0" priority="0" />
+      <Item value="RenderSystem`0" priority="0" />
+      <Item value="_renderSystem" priority="3" />
+      <Item value="RenderSystem" priority="0" />
+      <Item value="PacMan`0" priority="1" />
+      <Item value="Texture`0" priority="0" />
+      <Item value="for" priority="4" />
+      <Item value="int" priority="20" />
+      <Item value="i" priority="6" />
+      <Item value="float" priority="0" />
+      <Item value="Direction" priority="0" />
+      <Item value="initialDirection" priority="0" />
+      <Item value="speed" priority="1" />
+      <Item value="newPost" priority="0" />
+      <Item value="Rand" priority="4" />
+      <Item value="spawnPoint" priority="3" />
+      <Item value="direction" priority="0" />
+      <Item value="MovementComponent`0" priority="2" />
+      <Item value="protected" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="IsComponentNull`0" priority="4" />
+      <Item value="mov" priority="1" />
+      <Item value="continue" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="x" priority="7" />
+      <Item value="ValidRandomDirection`0" priority="1" />
+      <Item value="exclude" priority="3" />
+      <Item value="newOrientation" priority="2" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Debug`0" priority="0" />
+      <Item value="CollisionWarningSystem`0" priority="0" />
+      <Item value="CollisionWarningSystem" priority="0" />
+      <Item value="Rectangle`0" priority="2" />
+      <Item value="CollisionComponent`0" priority="0" />
+      <Item value="CollisionFrame" priority="0" />
+      <Item value="frame" priority="0" />
+      <Item value="CollisionDirections" priority="0" />
+      <Item value="List&lt;Vector2&gt;" priority="0" />
+      <Item value="position" priority="5" />
+      <Item value="createPoint" priority="0" />
+      <Item value="ContentManager`0" priority="0" />
+      <Item value="BuildMaze`0" priority="0" />
+      <Item value="SpawnGhosts`0" priority="0" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="col" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="movableObj" priority="1" />
+      <Item value="staticObj" priority="0" />
+      <Item value="_width" priority="4" />
+      <Item value="_height" priority="3" />
+      <Item value="Tile`0" priority="1" />
+      <Item value="GridComponent`0" priority="1" />
+      <Item value="_tileGrid" priority="3" />
+      <Item value="grid" priority="10" />
+      <Item value="GetLength`0" priority="1" />
+      <Item value="Grid`0" priority="2" />
+      <Item value="GridComponent" priority="0" />
+      <Item value="Grid" priority="0" />
+      <Item value="gridComponent" priority="3" />
+      <Item value="CreateSprite`0" priority="0" />
+      <Item value="boardSprite" priority="0" />
+      <Item value="ResourceMapper`0" priority="0" />
+      <Item value="ESprites`0" priority="0" />
+      <Item value="crumpSprite" priority="0" />
+      <Item value="wallInstance" priority="0" />
+      <Item value="PositionComponent`0" priority="0" />
+      <Item value="ArgumentOutOfRangeException" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="Size`0" priority="1" />
+      <Item value="width" priority="0" />
+      <Item value="height" priority="0" />
+      <Item value="PathFinderNodeCollection" priority="0" />
+      <Item value="PathFinderNodeCollection`0" priority="0" />
+      <Item value="PathFinderNode`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="nodes" priority="0" />
+      <Item value="IGrid`0" priority="3" />
+      <Item value="CellularAutomata`0" priority="0" />
+      <Item value="CellularAutomata" priority="0" />
+      <Item value="_cellAut" priority="3" />
+      <Item value="Size" priority="0" />
+      <Item value="GridType`0" priority="0" />
+      <Item value="Tile" priority="0" />
+      <Item value="Empty" priority="0" />
+      <Item value="_skipList" priority="1" />
+      <Item value="RandomGrid`0" priority="0" />
+      <Item value="_grid" priority="0" />
+      <Item value="boardInstance" priority="0" />
+      <Item value="PathProvider`0" priority="0" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="IPathFinder`0" priority="0" />
+      <Item value="PathProvider" priority="0" />
+      <Item value="_provider" priority="0" />
+      <Item value="_pathFindSystem" priority="0" />
+      <Item value="_pathProvider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.ITransform">
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="TryGetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Entities.EntityType">
+      <Item value="Player" priority="2" />
+      <Item value="Ghost" priority="1" />
+      <Item value="Crump" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Count" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Systems.IDrawable">
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Systems.SystemManager">
+      <Item value="RegisterSystem`0" priority="2" />
+      <Item value="Update`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="GraphicsDevice" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="0" />
+      <Item value="Draw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.ComponentType">
+      <Item value="Positionable" priority="0" />
+      <Item value="Movement" priority="0" />
+      <Item value="Collison" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Entities.Entity">
+      <Item value="AddComponent`0" priority="7" />
+      <Item value="GetComponent`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.IComponent">
+      <Item value="ComponentType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Entities.IEntity">
+      <Item value="EntityType`0" priority="0" />
+      <Item value="GetComponent`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.PositionalComponent">
+      <Item value="Position" priority="6" />
+      <Item value="Direction" priority="0" />
+      <Item value="MoveSpeed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Components.ComponentType">
+      <Item value="Sprite" priority="0" />
+      <Item value="Positional" priority="0" />
+      <Item value="Movement" priority="1" />
+      <Item value="Position" priority="0" />
+      <Item value="Collison" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Systems.EnemyMovementSystem">
+      <Item value="RegisterEntity`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.SpriteComponent">
+      <Item value="SpriteTexture" priority="0" />
+      <Item value="SpriteSize" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="5" />
+      <Item value="Y" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="White" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Systems.RenderSystem">
+      <Item value="RegisterEntity`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Assert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Systems.CollisionWarningSystem">
+      <Item value="RegisterEntity`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Entities.EntityFactory">
+      <Item value="CreateEntityInstance`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Core.Grid">
+      <Item value="TileGrid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Core.ResourceMapper">
+      <Item value="SpriteName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Core.ESprites">
+      <Item value="Crump" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Components.GridComponent">
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="TileGrid" priority="1" />
+      <Item value="TileSize" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Core.Tile">
+      <Item value="HasCrump" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Point">
+      <Item value="Zero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Core.Size">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Core.CellularAutomata">
+      <Item value="Size" priority="1" />
+      <Item value="Generate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Core.IGrid">
+      <Item value="TileGrid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ComponentPacMan.Systems.PathFindingSystem">
+      <Item value="PathProvider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ComponentPacMan.Core.GridType">
+      <Item value="Filled" priority="0" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

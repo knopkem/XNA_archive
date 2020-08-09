@@ -1,0 +1,6 @@
+C:\xna\ComponentGame\rgEngine\rgEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\xna\ComponentGame\rgEngine\rgEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xna\ComponentGame\rgEngine\rgEngine\bin\x86\Debug\rgEngine.dll
+C:\xna\ComponentGame\rgEngine\rgEngine\bin\x86\Debug\rgEngine.pdb
+C:\xna\ComponentGame\rgEngine\rgEngine\obj\x86\Debug\rgEngine.dll
+C:\xna\ComponentGame\rgEngine\rgEngine\obj\x86\Debug\rgEngine.pdb

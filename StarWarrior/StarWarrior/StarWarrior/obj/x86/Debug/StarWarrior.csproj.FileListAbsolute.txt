@@ -1,0 +1,8 @@
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\bin\x86\Debug\StarWarrior.exe
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\bin\x86\Debug\StarWarrior.pdb
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\bin\x86\Debug\artemis.dll
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\bin\x86\Debug\artemis.pdb
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\obj\x86\Debug\StarWarrior.exe
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarrior\obj\x86\Debug\StarWarrior.pdb

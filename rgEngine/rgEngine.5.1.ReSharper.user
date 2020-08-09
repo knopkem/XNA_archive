@@ -1,0 +1,91 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/f:PathProvider.cs" caret="2884" fromTop="18" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/f:RandomGrid.cs" caret="33" fromTop="0" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/f:IGrid.cs" caret="20" fromTop="1" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/f:Algorithms.cs" caret="1995" fromTop="63" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/f:Tile.cs" caret="1848" fromTop="72" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Entities/f:IRenderable.cs" caret="102" fromTop="3" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:PositionComponent.cs" caret="1046" fromTop="34" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:GridComponent.cs" caret="1196" fromTop="52" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:MovementComponent.cs" caret="53" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:PathComponent.cs" caret="1044" fromTop="35" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteAnimationComponent.cs" caret="23" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteComponent.cs" caret="1532" fromTop="51" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:IDrawable.cs" caret="96" fromTop="3" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:IUpdateable.cs" caret="52" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:BaseSystem.cs" caret="110" fromTop="4" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:WaypointingSystem.cs" caret="2208" fromTop="64" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:SystemManager.cs" caret="1133" fromTop="42" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:RenderSystem.cs" caret="956" fromTop="0" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PlayerControlSystem.cs" caret="2405" fromTop="53" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PathFindingSystem.cs" caret="2055" fromTop="43" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:MovementSystem.cs" caret="1088" fromTop="33" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:IComponent.cs" caret="209" fromTop="11" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:CollisionWarningSystem.cs" caret="837" fromTop="17" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:CollisionDetectionSystem.cs" caret="1581" fromTop="17" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:CollisionComponent.cs" caret="868" fromTop="29" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Entities/f:Entity.cs" caret="163" fromTop="0" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:CellularAutomata.cs" caret="27934" fromTop="720" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:GridType.cs" caret="20" fromTop="1" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:SkipListCollection.cs" caret="1243" fromTop="37" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteCompositionComponent.cs" caret="92" fromTop="3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:GridComponent.cs" caret="1196" fromTop="53" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:MovementComponent.cs" caret="53" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:PathComponent.cs" caret="1044" fromTop="35" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteAnimationComponent.cs" caret="23" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteComponent.cs" caret="1532" fromTop="51" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:SpriteCompositionComponent.cs" caret="92" fromTop="3" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:BaseSystem.cs" caret="235" fromTop="4" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:BaseSystem.cs" caret="110" fromTop="4" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:CollisionDetectionSystem.cs" caret="1650" fromTop="59" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:IDrawable.cs" caret="96" fromTop="3" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:IUpdateable.cs" caret="52" fromTop="2" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:WaypointingSystem.cs" caret="2208" fromTop="64" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:SystemManager.cs" caret="1133" fromTop="42" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:RenderSystem.cs" caret="2312" fromTop="55" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:RenderSystem.cs" caret="956" fromTop="24" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PlayerControlSystem.cs" caret="2405" fromTop="77" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PathFindingSystem.cs" caret="3281" fromTop="106" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PathFindingSystem.cs" caret="416" fromTop="14" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:PathFindingSystem.cs" caret="2055" fromTop="27" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:MovementSystem.cs" caret="1056" fromTop="5" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:MovementSystem.cs" caret="1088" fromTop="33" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:IComponent.cs" caret="209" fromTop="11" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:CollisionComponent.cs" caret="332" fromTop="11" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Systems/f:CollisionWarningSystem.cs" caret="837" fromTop="17" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Components/f:CollisionComponent.cs" caret="868" fromTop="29" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Entities/f:Entity.cs" caret="250" fromTop="3" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Entities/f:Entity.cs" caret="163" fromTop="6" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:CellularAutomata.cs" caret="27934" fromTop="720" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:GridType.cs" caret="20" fromTop="1" />
+      <File id="505BACBE-D147-44E2-B283-EF401961A8DA/d:Core/d:RandomLevel/f:SkipListCollection.cs" caret="1243" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

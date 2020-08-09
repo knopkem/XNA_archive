@@ -1,0 +1,161 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Enemy.cs" caret="181" fromTop="10" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Player.cs" caret="171" fromTop="8" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:SpatialForm.cs" caret="338" fromTop="14" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Weapon.cs" caret="287" fromTop="14" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Expiration.cs" caret="652" fromTop="17" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Spatials/f:Explosion.cs" caret="909" fromTop="37" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Spatials/f:Missile.cs" caret="821" fromTop="20" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:EnemySpawnSystem.cs" caret="1318" fromTop="28" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:ExpirationSystem.cs" caret="488" fromTop="20" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:HealthBarRenderSystem.cs" caret="1060" fromTop="33" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:HudRenderSystem.cs" caret="764" fromTop="29" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:MovementSystem.cs" caret="760" fromTop="28" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Spatials/f:Spatial.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Velocity.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Health.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="5285" fromTop="1" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="243" fromTop="8" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:PlayerShipControlSystem.cs" caret="2546" fromTop="62" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:EnemyShipMovementSystem.cs" caret="955" fromTop="15" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:EnemyShooterSystem.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Components/f:Transform.cs" caret="204" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Spatials/f:EnemyShip.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Spatials/f:PlayerShip.cs" caret="0" fromTop="0" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:EntityFactory.cs" caret="365" fromTop="15" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:CollisionSystem.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:PlayerShipControlSystem.cs" caret="2555" fromTop="88" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="8" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="17" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="15" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="24" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="20" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="27" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2791" fromTop="27" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="2801" fromTop="33" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="1574" fromTop="21" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="1188" fromTop="13" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/d:Systems/f:RenderSystem.cs" caret="1471" fromTop="18" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="1384" fromTop="23" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="1238" fromTop="16" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="673" fromTop="3" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="1384" fromTop="13" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="2996" fromTop="33" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="2980" fromTop="5" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3566" fromTop="23" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3943" fromTop="33" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3563" fromTop="13" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3924" fromTop="25" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3695" fromTop="20" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3563" fromTop="12" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3563" fromTop="12" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="3564" fromTop="18" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="5577" fromTop="26" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="5566" fromTop="25" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="6058" fromTop="21" />
+      <File id="1F944A4F-D07D-4C46-B946-D5E53A7682DA/f:StarWarrior.cs" caret="5281" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="StarWarrior" priority="0" />
+      <Item value="SpatialForm`0" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="SpatialFormFile" priority="0" />
+      <Item value="filename" priority="0" />
+      <Item value="public" priority="10" />
+      <Item value="Transform`0" priority="6" />
+      <Item value="this" priority="2" />
+      <Item value="Weapon`0" priority="1" />
+      <Item value="Component`0" priority="0" />
+      <Item value="float" priority="9" />
+      <Item value="Vector2`0" priority="5" />
+      <Item value="x" priority="3" />
+      <Item value="new" priority="6" />
+      <Item value="virtual" priority="1" />
+      <Item value="Spatial`0" priority="3" />
+      <Item value="Line" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Line`0" priority="0" />
+      <Item value="Start" priority="0" />
+      <Item value="start" priority="0" />
+      <Item value="end" priority="0" />
+      <Item value="Polygon`0" priority="0" />
+      <Item value="_points" priority="0" />
+      <Item value="List&lt;Vector2&gt;" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="bool" priority="1" />
+      <Item value="private" priority="1" />
+      <Item value="_isClosed" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="closed" priority="0" />
+      <Item value="_location" priority="1" />
+      <Item value="base" priority="9" />
+      <Item value="world" priority="2" />
+      <Item value="owner" priority="2" />
+      <Item value="GameTime`0" priority="0" />
+      <Item value="Entity`0" priority="1" />
+      <Item value="class" priority="1" />
+      <Item value="Bag" priority="0" />
+      <Item value="EntityProcessingSystem`0" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="setVelocity`0" priority="0" />
+      <Item value="IntervalEntitySystem`0" priority="0" />
+      <Item value="interval" priority="0" />
+      <Item value="typeof" priority="13" />
+      <Item value="Enemy`0" priority="0" />
+      <Item value="Vector2" priority="2" />
+      <Item value="Expiration`0" priority="1" />
+      <Item value="Health`0" priority="1" />
+      <Item value="Type`0" priority="0" />
+      <Item value="override" priority="1" />
+      <Item value="Velocity`0" priority="0" />
+      <Item value="gameTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StarWarrior.Components.Transform">
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StarWarrior.Spatials.Line">
+      <Item value="End" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StarWarrior.Spatials.Polygon">
+      <Item value="_points" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameTime">
+      <Item value="ElapsedGameTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

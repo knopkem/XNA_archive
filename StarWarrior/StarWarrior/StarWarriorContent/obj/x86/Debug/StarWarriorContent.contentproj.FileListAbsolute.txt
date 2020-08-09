@@ -1,0 +1,1 @@
+C:\xna\starWarrior_CSharp\StarWarrior\StarWarrior\StarWarriorContent\obj\x86\Debug\ResolveAssemblyReference.cache
